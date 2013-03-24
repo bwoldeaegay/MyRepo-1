@@ -1,1 +1,1 @@
-﻿I just created a new cat file added some more new text on the same line
+﻿I am sure this change in master branch will conflict with new-branch in merge
