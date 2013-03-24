@@ -1,1 +1,2 @@
 ﻿I am sure this change in master branch will conflict with new-branch in merge
+I like change in the master better. 
